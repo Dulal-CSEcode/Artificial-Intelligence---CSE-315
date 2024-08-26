@@ -1,0 +1,30 @@
+Lecture 01 - Chapter 01 Introduction
+Lecture 02 - Chapter 01 ( Part 2 )
+Lecture 03 - Chapter 02 Intelligent Agents ( Part 1 )
+Lecture 04 - Chapter 02 Intelligent Agents( Part 2 )
+Lecture 05 - Chapter 03 Solving Problems By Searching ( Part 1 )
+Lecture 06 - Chapter 03 Solving Problems By Searching ( Part 2 )
+Lecture 07 - Chapter 03 Solving Problems By Searching ( Part 3 )
+Lecture 08 - Chapter 04 Informed Search and Exploration ( Part 1 )
+Lecture 09 - Chapter 04 Informed Search and Exploration ( Part 2 )
+Lecture 10 - Fuzzy Expert System & Chapter 10 Knowledge Representation ( Part 1 )
+Lecture 11 - Chapter 10 Knowledge Representation ( Part 2 )
+Lecture 12 - Chapter 05 Constraint Satisfaction Problems ( Part 1 )
+Lecture 13 - Chapter 05 Constraint Satisfaction Problems ( Part 2 )
+Lecture 14 - Natural Language Processing(NLP) ( Part 1 )
+Lecture 15 - Natural Language Processing(NLP) ( Part 2 )
+Lecture 16 - Game Playing ( Part 1 )
+Lecture 17 - Game Playing ( Part 2 )
+Lecture 18 - Fuzzy Expert System ( Part 2 )
+
+
+
+
+
+
+
+
+
+
+
+
