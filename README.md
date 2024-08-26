@@ -8,7 +8,7 @@ Check out the playlist now and start your learning journey: [Artificial Intellig
 <br />
 <img/>
 
-![Artificial Intelligence](aibanner.PNG)
+![Artificial Intelligence](cse315banner.PNG)
   
 <br />  
 
